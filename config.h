@@ -43,6 +43,10 @@
   #define SYSCONFDIR ""
 #endif
 
+
+
+jlblblhblj buotv
+
 #if PLATFORM == PLATFORM_WINDOWS
   #ifdef _WIN64
     #define _FULLVERSION _VERSION " (Win64)"
